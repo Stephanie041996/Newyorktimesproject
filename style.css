@@ -1,5 +1,54 @@
+/* Style the top navigation bar */
+.topnav {
+    overflow: hidden;
+    background-color: white;
+width: 100%;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    font:39px;
+  }
+  .topnav button{
+       float: right;
+       padding:10px 12px;
+
+  }
+  .topnav h3{
+      text-align: center;
+  }
+.section{
+width: 50%;
+padding-right:25%;
+padding-left:25% ;
+}
+
+.image{
+    width: 50%;
+    align-content: center;}
+
+
 .column{
 float:left;
 width:25%;
 
+
 }
+.row1{
+
+padding-bottom: 500px;
+}
+.container{
+
+    background-image:url ("https://static01.nyt.com/newsgraphics/2014/03/18/theory-of-inflation/1ebaa1b972edda0f407fbaa0e010f6b50fb6792e/inflation-945.png");
+}
+
+
+
+
+
+    
